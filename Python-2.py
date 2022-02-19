@@ -1,16 +1,16 @@
 # Strings
 
-'thalesai'.upper() # converts to uppercase
-# 'THALESAI'
+'Sustainability'.upper() # converts to uppercase
+# 'SUSTAINABILITY'
 
-'THALESAI'.lower() # converts to lowercase
-# 'thalesai'
+'SUSTAINABILITY'.lower() # converts to lowercase
+# 'sustainability'
 
-'thalesai'.capitalize() # makes the first character have uppercase
-# 'Thalesai'
+'sustainability'.capitalize() # makes the first character have uppercase
+# 'Sustainability'
 
-'thalesai bootcamp'.title()  # return words start with uppercased and all remaining characters have lowercase
-# 'Thalesai Bootcamp'
+'sustainable developments'.title()  # return words start with uppercased and all remaining characters have lowercase
+# 'Sustainable Developments'
 
 "sustainability".ljust(50, "#")
 # 'sustainability####################################'
